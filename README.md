@@ -24,7 +24,7 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 
     - In descending order, list of the frequency count of employee last names, i.e., how many employees share each last name.
 
-**Bonus:**  create histograms to visualize the most common salary ranges by title and by all employees.
+**Bonus:**  create a histogram to visualize the most common salary ranges for all employees and a bar plot for salaries by title.
 
 - Most Common Salary Ranges for Employees:
 
