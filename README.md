@@ -26,5 +26,5 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 
 **Bonus:**  create histograms to visualize the most common salary ranges by title and by all employees.
 
-![ERD Diagram](EmployeeSQL/Images/ERD%20Employee%20Database.png)
+![Most Common Salary Ranges for Employees](Salaries_Histogram.png)
 
